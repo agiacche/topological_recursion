@@ -5,7 +5,7 @@ Around 2007, B. Eynard, N. Orantin and L. Chekhov discovered a recursion formula
 The topological recursion associates a doubly indexed family of differential forms $\omega_{g,n}$ to a spectral curve $\mathcal{S}$, which consists of a Riemann surface with some initial data: $$\mathcal{S}\xrightarrow{\quad\text{TR}\quad}(\omega_{g,n})_{2g-2+n>0}$$
 
 ## BE topological recursion
-The BE_topological_recursion.nb code computes the above differential, given a spectral curve as initial data. The code allows for computations in the Bouchard–Eynard setting, that is for spectral curves with higher ramifications.
+The BE_TopologicalRecursion.nb code computes the above differential, given a spectral curve as initial data. The code allows for computations in the Bouchard–Eynard setting, that is for spectral curves with higher ramifications.
 
 ## Airy structures
 The code Airy_structures.nb computes Airy structure correlators, that are an algebraic reformulation of topological recursion. The initial data are (A,B,C,D) tensors in the sense of Kontsevich–Soibelman.
